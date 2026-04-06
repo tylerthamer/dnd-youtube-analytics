@@ -163,4 +163,4 @@ All outputs will be saved automatically to their respective folders.
 
 ---
 
-*Published at: YOUR_GITHUB_LINK_HERE*
+*Published at: [Tyler Thamer's DND YouTube Analytics Github](https://github.com/tylerthamer/dnd-youtube-analytics.git)*
