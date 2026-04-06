@@ -1,7 +1,3 @@
-# scripts/01_collect_data.py
-# Phase 2: Data Acquisition
-# Collects channel stats and all video metadata from YouTube API v3
-# Raw JSON is saved to data/raw/ — this script never modifies existing files
 
 import os
 import json
@@ -10,7 +6,6 @@ from datetime import datetime
 from googleapiclient.discovery import build
 from dotenv import load_dotenv
 
-# ── Load API key from .env ──────────────────────────────────────────────────
 load_dotenv(os.path.join(os.path.dirname(__file__), "..", ".env"))
 API_KEY = os.getenv("YOUTUBE_API_KEY")
 if not API_KEY:
@@ -18,8 +13,6 @@ if not API_KEY:
 
 youtube = build("youtube", "v3", developerKey=API_KEY)
 
-# ── Channel definitions ─────────────────────────────────────────────────────
-# tier: "large" = 500k+ subs, "small" = 50k-500k subs
 CHANNELS = {
     "Critical Role":          {"id": "UCpXBGqwsBkpvcYjsJBQ7LEQ", "tier": "large"},
     "Dimension 20":           {"id": "UCC8zWIx8aBQme-x1nX9iZ0A", "tier": "large"},  # verify
@@ -34,8 +27,6 @@ CHANNELS = {
 RAW_DIR = os.path.join(os.path.dirname(__file__), "..", "data", "raw")
 os.makedirs(RAW_DIR, exist_ok=True)
 
-
-# ── Helper: save raw JSON ───────────────────────────────────────────────────
 def save_raw(filename, data):
     filepath = os.path.join(RAW_DIR, filename)
     with open(filepath, "w", encoding="utf-8") as f:
@@ -51,12 +42,9 @@ def fetch_channel_stats(channel_name, channel_id):
         id=channel_id
     ).execute()
 
-    # contentDetails gives us the uploads playlist ID — we need this to get videos
+
     return response
 
-
-# ── Step 2: Fetch all video IDs from uploads playlist ─────────────────────
-# Using playlistItems is quota-efficient (1 unit per page vs 100 for search)
 def fetch_all_video_ids(uploads_playlist_id):
     video_ids = []
     next_page_token = None
@@ -76,13 +64,11 @@ def fetch_all_video_ids(uploads_playlist_id):
         if not next_page_token:
             break
 
-        time.sleep(0.1)  # be polite to the API
+        time.sleep(0.1) 
 
     return video_ids
 
 
-# ── Step 3: Fetch video details in batches of 50 ──────────────────────────
-# videos.list accepts up to 50 IDs per call — very quota efficient
 def fetch_video_details(video_ids):
     all_videos = []
 
@@ -100,13 +86,12 @@ def fetch_video_details(video_ids):
     return all_videos
 
 
-# ── Main collection loop ────────────────────────────────────────────────────
 def main():
     collection_timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
     print(f"Starting collection at {collection_timestamp}")
     print("=" * 60)
 
-    summary = {}  # track counts for a quick sanity check at the end
+    summary = {} 
 
     for channel_name, info in CHANNELS.items():
         channel_id = info["id"]
@@ -117,7 +102,7 @@ def main():
             continue
 
         try:
-            # ── Channel stats ──────────────────────────────────────────
+            #Channel stats
             channel_data = fetch_channel_stats(channel_name, channel_id)
             channel_data["_meta"] = {
                 "channel_name": channel_name,
@@ -128,19 +113,19 @@ def main():
             safe_name = channel_name.lower().replace(" ", "_")
             save_raw(f"{safe_name}_channel.json", channel_data)
 
-            # ── Extract uploads playlist ID ───────────────────────────
+            #Extract uploads playlist Id
             uploads_playlist_id = (
                 channel_data["items"][0]["contentDetails"]
                 ["relatedPlaylists"]["uploads"]
             )
             print(f"  Uploads playlist: {uploads_playlist_id}")
 
-            # ── All video IDs ─────────────────────────────────────────
+            #All video IDs
             print(f"  Fetching video IDs...")
             video_ids = fetch_all_video_ids(uploads_playlist_id)
             print(f"  Found {len(video_ids)} videos")
 
-            # ── Video details ─────────────────────────────────────────
+            #Video details
             print(f"  Fetching video details...")
             videos = fetch_video_details(video_ids)
 
@@ -160,8 +145,8 @@ def main():
 
         except Exception as e:
             print(f"  X ERROR on {channel_name}: {e}")
-
-    # ── Final summary ──────────────────────────────────────────────────────
+ 
+   
     print("\n" + "=" * 60)
     print("Collection complete. Video counts:")
     for name, count in summary.items():
