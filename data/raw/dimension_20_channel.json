@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "J3pPl6TU3OMgv8OSs8FRUxl_cto",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "2tJ_DdUr-Epo_ThXWQPmCa_5Nds",
+      "id": "UCC8zWIx8aBQme-x1nX9iZ0A",
+      "snippet": {
+        "title": "Dimension 20",
+        "description": "SAY HI, MY PEOPLE!\n\nWelcome to the official YouTube  home of Dimension 20! https://dimension20.dropout.tv\n\nBe sure to subscribe and click the bell icon so you don't miss anything! \n",
+        "customUrl": "@dimension20show",
+        "publishedAt": "2019-06-10T19:58:12Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/W5cahxtjNkPXNUdGOABIx1W0EFTEYfB8Py-uBkPfR82ytSq2HOBstY_TMpFxKdRBAAhA_RHZvg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/W5cahxtjNkPXNUdGOABIx1W0EFTEYfB8Py-uBkPfR82ytSq2HOBstY_TMpFxKdRBAAhA_RHZvg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/W5cahxtjNkPXNUdGOABIx1W0EFTEYfB8Py-uBkPfR82ytSq2HOBstY_TMpFxKdRBAAhA_RHZvg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Dimension 20",
+          "description": "SAY HI, MY PEOPLE!\n\nWelcome to the official YouTube  home of Dimension 20! https://dimension20.dropout.tv\n\nBe sure to subscribe and click the bell icon so you don't miss anything! \n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUC8zWIx8aBQme-x1nX9iZ0A"
+        }
+      },
+      "statistics": {
+        "viewCount": "179657903",
+        "subscriberCount": "1110000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "297"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "Dimension 20",
+    "tier": "large",
+    "collected_at": "20260403_230447"
+  }
+}

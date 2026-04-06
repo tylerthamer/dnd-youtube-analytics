@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "gOsuwVjotuQHRpDSeTgbbIlsROU",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "utU8v8LkhsFBkCBiipDFodds4ik",
+      "id": "UCiER8p540j2SosO7OX7E0VA",
+      "snippet": {
+        "title": "Legends of Avantris",
+        "description": "Seven best friends who play a lot of D&D together in person at the table, telling stories in an epic homebrew world with tons of laughs, heavy roleplay, and wacky voices. ",
+        "customUrl": "@legendsofavantris",
+        "publishedAt": "2018-05-18T05:36:17Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/37CN2axXDcDSK36VW7zUDFm0DjYkIxgOSplGFtI-U9bV1r73AqTi9I8VdsYWSD347yuYnRDrkZY=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/37CN2axXDcDSK36VW7zUDFm0DjYkIxgOSplGFtI-U9bV1r73AqTi9I8VdsYWSD347yuYnRDrkZY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/37CN2axXDcDSK36VW7zUDFm0DjYkIxgOSplGFtI-U9bV1r73AqTi9I8VdsYWSD347yuYnRDrkZY=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Legends of Avantris",
+          "description": "Seven best friends who play a lot of D&D together in person at the table, telling stories in an epic homebrew world with tons of laughs, heavy roleplay, and wacky voices. "
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUiER8p540j2SosO7OX7E0VA"
+        }
+      },
+      "statistics": {
+        "viewCount": "2920117795",
+        "subscriberCount": "2630000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1593"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "Legends of Avantris",
+    "tier": "large",
+    "collected_at": "20260403_230447"
+  }
+}

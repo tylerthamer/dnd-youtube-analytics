@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "UTFjVaU-Sph28EH7R2EstIl-Eko",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "u_l7aw2u0SueI4l_ynOlJK2hPnM",
+      "id": "UChvmHyl5CVxV8--0qU5e9xQ",
+      "snippet": {
+        "title": "Vibe Check D&D",
+        "description": "Hello!! We are a group of friends playing a Curse of Strahd campaign, and we recorded our DND sessions in case we wanted to make animatics of certain scenes. We had no intention of posting the full sessions anywhere online until there was an unexpected level of interest on TikTok.\nSo now we're editing the first few episodes of our upcoming passion project: Terror Time D&D! It will be in the style of a visual novel, with everything illustrated/animated by our own players!\n\nTo see more of our existing content and any future updates, visit OllieTheDuke on TikTok!\nhttps://www.tiktok.com/@ollietheduke\n\n\nBanner Artist:\ntwitter @Lady_Alcazar\ninstagram @lady_tidbits\n",
+        "customUrl": "@vibecheckdnd",
+        "publishedAt": "2021-12-27T04:30:40.868939Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/HJHNUqwdtSq9NGxqSgF292J8qBWAeLBHEpI253cCCi0_3OOTwOTiCkcAn2QTWKVz7QK4mdKHUQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/HJHNUqwdtSq9NGxqSgF292J8qBWAeLBHEpI253cCCi0_3OOTwOTiCkcAn2QTWKVz7QK4mdKHUQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/HJHNUqwdtSq9NGxqSgF292J8qBWAeLBHEpI253cCCi0_3OOTwOTiCkcAn2QTWKVz7QK4mdKHUQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Vibe Check D&D",
+          "description": "Hello!! We are a group of friends playing a Curse of Strahd campaign, and we recorded our DND sessions in case we wanted to make animatics of certain scenes. We had no intention of posting the full sessions anywhere online until there was an unexpected level of interest on TikTok.\nSo now we're editing the first few episodes of our upcoming passion project: Terror Time D&D! It will be in the style of a visual novel, with everything illustrated/animated by our own players!\n\nTo see more of our existing content and any future updates, visit OllieTheDuke on TikTok!\nhttps://www.tiktok.com/@ollietheduke\n\n\nBanner Artist:\ntwitter @Lady_Alcazar\ninstagram @lady_tidbits\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUhvmHyl5CVxV8--0qU5e9xQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "18412091",
+        "subscriberCount": "103000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "37"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "VibeCheckDND",
+    "tier": "small",
+    "collected_at": "20260403_230447"
+  }
+}

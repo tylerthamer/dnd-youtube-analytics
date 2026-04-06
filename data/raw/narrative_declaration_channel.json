@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "RONPqWk9sz7hsOjQjAgs3-Zj19Q",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "mi4zzcmLRFv62uc4gQ9Zr0KEJ6Q",
+      "id": "UCDP6Ob4_eVR4meY7S5fTYUg",
+      "snippet": {
+        "title": "Narrative Declaration",
+        "description": "Narrative Declaration is a team of TTRPG veterans, producers, writers, artists, and actors banding together to bring you TTRPG live-plays from games such as Pathfinder Second Edition, Warhammer 40K, and more! We also create new worlds to explore, ferocious monsters, magic items, and more to your Table Top Role-Playing games in the form of professional PDFs to use at your table.\nCheck us out at https://narrativedeclaration.com/\n",
+        "customUrl": "@narrativedeclaration",
+        "publishedAt": "2022-01-07T03:33:07.278551Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/Kthr0RarfBU9BUw-uhefYEa7LPXxugcmSlmECXWUqEY4GMaxLesesArKG_NVcYTeM-K6GRY7gvc=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/Kthr0RarfBU9BUw-uhefYEa7LPXxugcmSlmECXWUqEY4GMaxLesesArKG_NVcYTeM-K6GRY7gvc=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/Kthr0RarfBU9BUw-uhefYEa7LPXxugcmSlmECXWUqEY4GMaxLesesArKG_NVcYTeM-K6GRY7gvc=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Narrative Declaration",
+          "description": "Narrative Declaration is a team of TTRPG veterans, producers, writers, artists, and actors banding together to bring you TTRPG live-plays from games such as Pathfinder Second Edition, Warhammer 40K, and more! We also create new worlds to explore, ferocious monsters, magic items, and more to your Table Top Role-Playing games in the form of professional PDFs to use at your table.\nCheck us out at https://narrativedeclaration.com/\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUDP6Ob4_eVR4meY7S5fTYUg"
+        }
+      },
+      "statistics": {
+        "viewCount": "73848279",
+        "subscriberCount": "175000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "756"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "Narrative Declaration",
+    "tier": "small",
+    "collected_at": "20260403_230447"
+  }
+}

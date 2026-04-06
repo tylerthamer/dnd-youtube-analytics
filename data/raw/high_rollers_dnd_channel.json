@@ -1,0 +1,59 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "0Tz9RzSyeVDy0BNC232Q33H0hOU",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "8RMwA4x6i1OdgI63yI7yefRxvcY",
+      "id": "UC3qtZRMtWNaD2Q96STxgOrA",
+      "snippet": {
+        "title": "High Rollers DnD",
+        "description": "Welcome to High Rollers, a live-play Dungeons & Dragons campaign! Join Dungeon Master Mara and their players - Kim, Tom, Katie, Trott and Rhi - as they explore the world of Altheya on Europe's biggest RPG Stream! Watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd! For all business enquiries, please email highrollersdnd@googlemail.com\n\nWebsite: https://www.highrollersdnd.com\nMerch: https://highrollersdnd.teemill.com\nBlueSky: https://bsky.app/profile/highrollersdnd.bsky.social\nTwitter: https://twitter.com/HighRollersDnD\nPodcast: https://tinyurl.com/highrollerspod\nPatreon: https://www.patreon.com/HighRollers\nDiscord: https://discord.gg/tM26SmPcr6\nTikTok: https://www.tiktok.com/@dndhighrollers\nInstagram: https://www.instagram.com/highrollersdnd/\nWiki: https://high-rollers-dnd.fandom.com/wiki/High_Rollers_DnD_Wiki\n",
+        "customUrl": "@highrollersdnd",
+        "publishedAt": "2017-01-12T19:36:52Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mt6Wd4swajOb2jdrvPzcb8BiZoVl-fZoI62PN4X5vkdQ=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mt6Wd4swajOb2jdrvPzcb8BiZoVl-fZoI62PN4X5vkdQ=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_mt6Wd4swajOb2jdrvPzcb8BiZoVl-fZoI62PN4X5vkdQ=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "High Rollers DnD",
+          "description": "Welcome to High Rollers, a live-play Dungeons & Dragons campaign! Join Dungeon Master Mara and their players - Kim, Tom, Katie, Trott and Rhi - as they explore the world of Altheya on Europe's biggest RPG Stream! Watch live every Sunday at 5pm UK Time on twitch.tv/highrollersdnd! For all business enquiries, please email highrollersdnd@googlemail.com\n\nWebsite: https://www.highrollersdnd.com\nMerch: https://highrollersdnd.teemill.com\nBlueSky: https://bsky.app/profile/highrollersdnd.bsky.social\nTwitter: https://twitter.com/HighRollersDnD\nPodcast: https://tinyurl.com/highrollerspod\nPatreon: https://www.patreon.com/HighRollers\nDiscord: https://discord.gg/tM26SmPcr6\nTikTok: https://www.tiktok.com/@dndhighrollers\nInstagram: https://www.instagram.com/highrollersdnd/\nWiki: https://high-rollers-dnd.fandom.com/wiki/High_Rollers_DnD_Wiki\n"
+        }
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UU3qtZRMtWNaD2Q96STxgOrA"
+        }
+      },
+      "statistics": {
+        "viewCount": "57825371",
+        "subscriberCount": "217000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "625"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "High Rollers DnD",
+    "tier": "large",
+    "collected_at": "20260403_230447"
+  }
+}

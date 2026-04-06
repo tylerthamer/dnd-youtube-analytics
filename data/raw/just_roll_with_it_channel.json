@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "xo1WwK5_hhPrp-_kO1snTfl_M98",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "4d1XvSOe6lDDOl79zJDl5Hrahuk",
+      "id": "UCssTrx7qnoG5ufeBEF4dezg",
+      "snippet": {
+        "title": "Just Roll With It",
+        "description": "A absurdly powerful D&D podcast where we Just Roll With It. NEW EPISODES BIWEEKLY ON SATURDAYS!",
+        "customUrl": "@justrollwithit",
+        "publishedAt": "2018-06-19T13:11:25Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nejdRNTM31bvPVLkVXsP04lMmV8UMBj4NzqOTe0M2zGqY=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nejdRNTM31bvPVLkVXsP04lMmV8UMBj4NzqOTe0M2zGqY=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/ytc/AIdro_nejdRNTM31bvPVLkVXsP04lMmV8UMBj4NzqOTe0M2zGqY=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Just Roll With It",
+          "description": "A absurdly powerful D&D podcast where we Just Roll With It. NEW EPISODES BIWEEKLY ON SATURDAYS!"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUssTrx7qnoG5ufeBEF4dezg"
+        }
+      },
+      "statistics": {
+        "viewCount": "30019478",
+        "subscriberCount": "279000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "212"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "Just Roll With It",
+    "tier": "small",
+    "collected_at": "20260403_230447"
+  }
+}

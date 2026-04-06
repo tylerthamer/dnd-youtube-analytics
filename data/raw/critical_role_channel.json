@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "8PNCMFtrNW3ZZLULa3T3jW48_uw",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "eK_07oJoD32rTgE_29rXBzc6Z9g",
+      "id": "UCpXBGqwsBkpvcYjsJBQ7LEQ",
+      "snippet": {
+        "title": "Critical Role",
+        "description": "What started in 2012 as a roleplaying game between friends has evolved into a multiplatform entertainment phenomenon with a variety of shows, including the flagship show Critical Role, comic books, graphic novels, animation, live performances, podcasts, and more. Led by veteran voice actor Matthew Mercer and composed of other well-known voice actors Ashley Johnson, Marisha Ray, Taliesin Jaffe, Travis Willingham, Sam Riegel, Laura Bailey and Liam O'Brien; Critical Role takes the audience on an adventure through the fantasy world of Exandria. \n\nNow, Critical Role is responsible for sharing compelling stories from a host of storytellers which includes the space western, Midst, and the chilling horror stories from a secret group of investigators known as Candela Obscura. \n\nFor more information on Critical Role go to www.critrole.com.\n",
+        "customUrl": "@criticalrole",
+        "publishedAt": "2018-05-23T17:03:19Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/EJuqUxcN1wWj5KoIrNvD_jqaVFGeESeUcZvUUDkWJqv-739k_juBMI-HSIktPiTYX-rTp0ecrUM=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/EJuqUxcN1wWj5KoIrNvD_jqaVFGeESeUcZvUUDkWJqv-739k_juBMI-HSIktPiTYX-rTp0ecrUM=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/EJuqUxcN1wWj5KoIrNvD_jqaVFGeESeUcZvUUDkWJqv-739k_juBMI-HSIktPiTYX-rTp0ecrUM=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "Critical Role",
+          "description": "What started in 2012 as a roleplaying game between friends has evolved into a multiplatform entertainment phenomenon with a variety of shows, including the flagship show Critical Role, comic books, graphic novels, animation, live performances, podcasts, and more. Led by veteran voice actor Matthew Mercer and composed of other well-known voice actors Ashley Johnson, Marisha Ray, Taliesin Jaffe, Travis Willingham, Sam Riegel, Laura Bailey and Liam O'Brien; Critical Role takes the audience on an adventure through the fantasy world of Exandria. \n\nNow, Critical Role is responsible for sharing compelling stories from a host of storytellers which includes the space western, Midst, and the chilling horror stories from a secret group of investigators known as Candela Obscura. \n\nFor more information on Critical Role go to www.critrole.com.\n"
+        },
+        "country": "US"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUpXBGqwsBkpvcYjsJBQ7LEQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "1302841102",
+        "subscriberCount": "2810000",
+        "hiddenSubscriberCount": false,
+        "videoCount": "1836"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "Critical Role",
+    "tier": "large",
+    "collected_at": "20260403_230447"
+  }
+}

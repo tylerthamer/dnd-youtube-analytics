@@ -1,0 +1,500 @@
+channel_name,tier,publish_month,upload_count
+Critical Role,large,2018-07,1
+Critical Role,large,2018-08,2
+Critical Role,large,2018-09,5
+Critical Role,large,2018-10,5
+Critical Role,large,2018-11,8
+Critical Role,large,2018-12,4
+Critical Role,large,2019-01,5
+Critical Role,large,2019-02,11
+Critical Role,large,2019-03,18
+Critical Role,large,2019-04,15
+Critical Role,large,2019-05,11
+Critical Role,large,2019-06,14
+Critical Role,large,2019-07,9
+Critical Role,large,2019-08,9
+Critical Role,large,2019-09,8
+Critical Role,large,2019-10,13
+Critical Role,large,2019-11,16
+Critical Role,large,2019-12,45
+Critical Role,large,2020-01,3
+Critical Role,large,2020-02,10
+Critical Role,large,2020-03,7
+Critical Role,large,2020-04,6
+Critical Role,large,2020-05,6
+Critical Role,large,2020-06,4
+Critical Role,large,2020-07,10
+Critical Role,large,2020-08,7
+Critical Role,large,2020-09,4
+Critical Role,large,2020-10,3
+Critical Role,large,2020-11,5
+Critical Role,large,2020-12,4
+Critical Role,large,2021-01,3
+Critical Role,large,2021-02,9
+Critical Role,large,2021-03,6
+Critical Role,large,2021-04,8
+Critical Role,large,2021-05,9
+Critical Role,large,2021-06,7
+Critical Role,large,2021-07,7
+Critical Role,large,2021-08,8
+Critical Role,large,2021-09,4
+Critical Role,large,2021-10,7
+Critical Role,large,2021-11,4
+Critical Role,large,2021-12,5
+Critical Role,large,2022-01,5
+Critical Role,large,2022-02,8
+Critical Role,large,2022-03,8
+Critical Role,large,2022-04,8
+Critical Role,large,2022-05,5
+Critical Role,large,2022-06,6
+Critical Role,large,2022-07,7
+Critical Role,large,2022-08,5
+Critical Role,large,2022-09,5
+Critical Role,large,2022-10,4
+Critical Role,large,2022-11,5
+Critical Role,large,2022-12,5
+Critical Role,large,2023-01,6
+Critical Role,large,2023-02,6
+Critical Role,large,2023-03,6
+Critical Role,large,2023-04,10
+Critical Role,large,2023-05,10
+Critical Role,large,2023-06,11
+Critical Role,large,2023-07,11
+Critical Role,large,2023-08,12
+Critical Role,large,2023-09,11
+Critical Role,large,2023-10,10
+Critical Role,large,2023-11,13
+Critical Role,large,2023-12,7
+Critical Role,large,2024-01,9
+Critical Role,large,2024-02,9
+Critical Role,large,2024-03,15
+Critical Role,large,2024-04,13
+Critical Role,large,2024-05,22
+Critical Role,large,2024-06,16
+Critical Role,large,2024-07,15
+Critical Role,large,2024-08,11
+Critical Role,large,2024-09,10
+Critical Role,large,2024-10,36
+Critical Role,large,2024-11,13
+Critical Role,large,2024-12,12
+Critical Role,large,2025-01,13
+Critical Role,large,2025-02,14
+Critical Role,large,2025-03,11
+Critical Role,large,2025-04,11
+Critical Role,large,2025-05,15
+Critical Role,large,2025-06,12
+Critical Role,large,2025-07,10
+Critical Role,large,2025-08,11
+Critical Role,large,2025-09,10
+Critical Role,large,2025-10,11
+Critical Role,large,2025-11,10
+Critical Role,large,2025-12,9
+Critical Role,large,2026-01,8
+Critical Role,large,2026-02,10
+Critical Role,large,2026-03,13
+Dimension 20,large,2018-10,4
+Dimension 20,large,2018-11,2
+Dimension 20,large,2018-12,3
+Dimension 20,large,2019-01,3
+Dimension 20,large,2019-02,2
+Dimension 20,large,2019-03,2
+Dimension 20,large,2019-04,2
+Dimension 20,large,2019-05,3
+Dimension 20,large,2019-06,2
+Dimension 20,large,2019-07,3
+Dimension 20,large,2019-08,3
+Dimension 20,large,2019-09,14
+Dimension 20,large,2019-10,2
+Dimension 20,large,2019-11,6
+Dimension 20,large,2019-12,9
+Dimension 20,large,2020-01,1
+Dimension 20,large,2020-02,2
+Dimension 20,large,2020-03,6
+Dimension 20,large,2020-04,2
+Dimension 20,large,2020-05,3
+Dimension 20,large,2020-06,2
+Dimension 20,large,2020-07,2
+Dimension 20,large,2020-08,5
+Dimension 20,large,2020-09,6
+Dimension 20,large,2020-10,9
+Dimension 20,large,2020-11,10
+Dimension 20,large,2020-12,9
+Dimension 20,large,2021-01,4
+Dimension 20,large,2021-03,3
+Dimension 20,large,2021-04,2
+Dimension 20,large,2021-05,1
+Dimension 20,large,2021-07,1
+Dimension 20,large,2021-08,1
+Dimension 20,large,2021-09,1
+Dimension 20,large,2021-10,1
+Dimension 20,large,2021-11,2
+Dimension 20,large,2021-12,1
+Dimension 20,large,2022-01,2
+Dimension 20,large,2022-02,1
+Dimension 20,large,2022-03,1
+Dimension 20,large,2022-06,1
+Dimension 20,large,2022-08,1
+Dimension 20,large,2022-12,1
+Dimension 20,large,2023-01,2
+Dimension 20,large,2023-02,3
+Dimension 20,large,2023-04,2
+Dimension 20,large,2023-05,3
+Dimension 20,large,2023-07,1
+Dimension 20,large,2023-08,1
+Dimension 20,large,2023-10,2
+Dimension 20,large,2023-11,9
+Dimension 20,large,2023-12,8
+Dimension 20,large,2024-01,2
+Dimension 20,large,2024-02,3
+Dimension 20,large,2024-03,5
+Dimension 20,large,2024-07,3
+Dimension 20,large,2024-09,1
+Dimension 20,large,2024-10,4
+Dimension 20,large,2024-11,2
+Dimension 20,large,2025-01,1
+Dimension 20,large,2025-04,2
+Dimension 20,large,2025-05,2
+Dimension 20,large,2025-06,1
+Dimension 20,large,2025-07,1
+Dimension 20,large,2025-08,1
+Dimension 20,large,2025-09,1
+Dimension 20,large,2026-01,1
+High Rollers DnD,large,2018-06,9
+High Rollers DnD,large,2018-07,4
+High Rollers DnD,large,2018-08,5
+High Rollers DnD,large,2018-09,7
+High Rollers DnD,large,2018-10,7
+High Rollers DnD,large,2018-11,11
+High Rollers DnD,large,2018-12,3
+High Rollers DnD,large,2019-01,5
+High Rollers DnD,large,2019-02,4
+High Rollers DnD,large,2019-03,4
+High Rollers DnD,large,2019-04,5
+High Rollers DnD,large,2019-05,4
+High Rollers DnD,large,2019-06,4
+High Rollers DnD,large,2019-07,9
+High Rollers DnD,large,2019-08,8
+High Rollers DnD,large,2019-09,6
+High Rollers DnD,large,2019-10,5
+High Rollers DnD,large,2019-11,5
+High Rollers DnD,large,2019-12,2
+High Rollers DnD,large,2020-01,6
+High Rollers DnD,large,2020-02,8
+High Rollers DnD,large,2020-03,7
+High Rollers DnD,large,2020-04,13
+High Rollers DnD,large,2020-05,11
+High Rollers DnD,large,2020-06,12
+High Rollers DnD,large,2020-07,11
+High Rollers DnD,large,2020-08,12
+High Rollers DnD,large,2020-09,10
+High Rollers DnD,large,2020-10,10
+High Rollers DnD,large,2020-11,5
+High Rollers DnD,large,2020-12,7
+High Rollers DnD,large,2021-01,7
+High Rollers DnD,large,2021-02,8
+High Rollers DnD,large,2021-03,10
+High Rollers DnD,large,2021-04,9
+High Rollers DnD,large,2021-05,6
+High Rollers DnD,large,2021-06,7
+High Rollers DnD,large,2021-07,7
+High Rollers DnD,large,2021-08,5
+High Rollers DnD,large,2021-09,3
+High Rollers DnD,large,2021-10,3
+High Rollers DnD,large,2021-11,6
+High Rollers DnD,large,2021-12,2
+High Rollers DnD,large,2022-01,5
+High Rollers DnD,large,2022-02,3
+High Rollers DnD,large,2022-03,4
+High Rollers DnD,large,2022-04,4
+High Rollers DnD,large,2022-05,3
+High Rollers DnD,large,2022-06,5
+High Rollers DnD,large,2022-07,3
+High Rollers DnD,large,2022-08,4
+High Rollers DnD,large,2022-09,4
+High Rollers DnD,large,2022-10,1
+High Rollers DnD,large,2022-11,5
+High Rollers DnD,large,2022-12,4
+High Rollers DnD,large,2023-01,2
+High Rollers DnD,large,2023-02,6
+High Rollers DnD,large,2023-03,4
+High Rollers DnD,large,2023-04,3
+High Rollers DnD,large,2023-05,3
+High Rollers DnD,large,2023-06,5
+High Rollers DnD,large,2023-07,2
+High Rollers DnD,large,2023-08,1
+High Rollers DnD,large,2023-09,3
+High Rollers DnD,large,2023-10,6
+High Rollers DnD,large,2023-11,6
+High Rollers DnD,large,2023-12,2
+High Rollers DnD,large,2024-01,4
+High Rollers DnD,large,2024-02,4
+High Rollers DnD,large,2024-03,6
+High Rollers DnD,large,2024-04,6
+High Rollers DnD,large,2024-05,2
+High Rollers DnD,large,2024-06,4
+High Rollers DnD,large,2024-07,4
+High Rollers DnD,large,2024-08,4
+High Rollers DnD,large,2024-09,4
+High Rollers DnD,large,2024-10,5
+High Rollers DnD,large,2024-11,4
+High Rollers DnD,large,2024-12,2
+High Rollers DnD,large,2025-01,4
+High Rollers DnD,large,2025-02,4
+High Rollers DnD,large,2025-03,4
+High Rollers DnD,large,2025-04,6
+High Rollers DnD,large,2025-05,3
+High Rollers DnD,large,2025-06,6
+High Rollers DnD,large,2025-07,5
+High Rollers DnD,large,2025-08,4
+High Rollers DnD,large,2025-09,5
+High Rollers DnD,large,2025-10,4
+High Rollers DnD,large,2025-11,3
+High Rollers DnD,large,2025-12,5
+High Rollers DnD,large,2026-01,4
+High Rollers DnD,large,2026-02,5
+High Rollers DnD,large,2026-03,5
+Just Roll With It,small,2021-02,10
+Just Roll With It,small,2021-03,9
+Just Roll With It,small,2021-04,9
+Just Roll With It,small,2021-05,8
+Just Roll With It,small,2021-06,7
+Just Roll With It,small,2021-07,9
+Just Roll With It,small,2021-08,4
+Just Roll With It,small,2021-09,4
+Just Roll With It,small,2021-10,4
+Just Roll With It,small,2021-11,3
+Just Roll With It,small,2021-12,5
+Just Roll With It,small,2022-01,4
+Just Roll With It,small,2022-02,4
+Just Roll With It,small,2022-03,3
+Just Roll With It,small,2022-04,3
+Just Roll With It,small,2022-05,3
+Just Roll With It,small,2022-06,3
+Just Roll With It,small,2022-07,5
+Just Roll With It,small,2022-08,1
+Just Roll With It,small,2022-09,4
+Just Roll With It,small,2022-10,6
+Just Roll With It,small,2022-11,3
+Just Roll With It,small,2022-12,2
+Just Roll With It,small,2023-01,2
+Just Roll With It,small,2023-02,2
+Just Roll With It,small,2023-03,2
+Just Roll With It,small,2023-04,3
+Just Roll With It,small,2023-05,3
+Just Roll With It,small,2023-06,2
+Just Roll With It,small,2023-07,2
+Just Roll With It,small,2023-08,2
+Just Roll With It,small,2023-09,3
+Just Roll With It,small,2023-10,2
+Just Roll With It,small,2023-11,2
+Just Roll With It,small,2023-12,5
+Just Roll With It,small,2024-01,2
+Just Roll With It,small,2024-07,2
+Just Roll With It,small,2024-08,3
+Just Roll With It,small,2024-09,2
+Just Roll With It,small,2024-10,2
+Just Roll With It,small,2024-11,2
+Just Roll With It,small,2024-12,2
+Just Roll With It,small,2025-01,2
+Just Roll With It,small,2025-02,2
+Just Roll With It,small,2025-03,4
+Just Roll With It,small,2025-04,1
+Just Roll With It,small,2025-05,3
+Just Roll With It,small,2025-06,2
+Just Roll With It,small,2025-07,1
+Just Roll With It,small,2025-08,1
+Just Roll With It,small,2025-09,4
+Just Roll With It,small,2025-10,3
+Just Roll With It,small,2025-11,2
+Just Roll With It,small,2025-12,2
+Just Roll With It,small,2026-01,2
+Just Roll With It,small,2026-02,4
+Just Roll With It,small,2026-03,2
+Legends of Avantris,large,2018-09,4
+Legends of Avantris,large,2018-10,18
+Legends of Avantris,large,2018-11,15
+Legends of Avantris,large,2019-01,18
+Legends of Avantris,large,2019-02,4
+Legends of Avantris,large,2019-03,5
+Legends of Avantris,large,2019-04,3
+Legends of Avantris,large,2019-05,3
+Legends of Avantris,large,2019-06,8
+Legends of Avantris,large,2019-07,7
+Legends of Avantris,large,2019-08,5
+Legends of Avantris,large,2019-09,9
+Legends of Avantris,large,2019-10,8
+Legends of Avantris,large,2019-11,2
+Legends of Avantris,large,2019-12,2
+Legends of Avantris,large,2020-01,2
+Legends of Avantris,large,2020-02,2
+Legends of Avantris,large,2020-03,2
+Legends of Avantris,large,2020-04,1
+Legends of Avantris,large,2020-10,3
+Legends of Avantris,large,2020-11,3
+Legends of Avantris,large,2021-03,1
+Legends of Avantris,large,2021-04,5
+Legends of Avantris,large,2021-05,6
+Legends of Avantris,large,2021-06,1
+Legends of Avantris,large,2021-07,9
+Legends of Avantris,large,2021-08,2
+Legends of Avantris,large,2021-09,5
+Legends of Avantris,large,2021-10,4
+Legends of Avantris,large,2021-11,6
+Legends of Avantris,large,2021-12,4
+Legends of Avantris,large,2022-01,3
+Legends of Avantris,large,2022-02,1
+Legends of Avantris,large,2022-03,3
+Legends of Avantris,large,2022-04,3
+Legends of Avantris,large,2022-05,2
+Legends of Avantris,large,2022-06,2
+Legends of Avantris,large,2022-07,4
+Legends of Avantris,large,2022-08,4
+Legends of Avantris,large,2022-09,6
+Legends of Avantris,large,2022-10,10
+Legends of Avantris,large,2022-11,8
+Legends of Avantris,large,2022-12,5
+Legends of Avantris,large,2023-01,5
+Legends of Avantris,large,2023-02,6
+Legends of Avantris,large,2023-03,10
+Legends of Avantris,large,2023-04,9
+Legends of Avantris,large,2023-05,9
+Legends of Avantris,large,2023-06,5
+Legends of Avantris,large,2023-07,12
+Legends of Avantris,large,2023-08,8
+Legends of Avantris,large,2023-09,9
+Legends of Avantris,large,2023-10,10
+Legends of Avantris,large,2023-11,7
+Legends of Avantris,large,2023-12,6
+Legends of Avantris,large,2024-01,7
+Legends of Avantris,large,2024-02,17
+Legends of Avantris,large,2024-03,6
+Legends of Avantris,large,2024-04,10
+Legends of Avantris,large,2024-05,7
+Legends of Avantris,large,2024-06,6
+Legends of Avantris,large,2024-07,7
+Legends of Avantris,large,2024-08,7
+Legends of Avantris,large,2024-09,5
+Legends of Avantris,large,2024-10,11
+Legends of Avantris,large,2024-11,7
+Legends of Avantris,large,2024-12,9
+Legends of Avantris,large,2025-01,5
+Legends of Avantris,large,2025-02,5
+Legends of Avantris,large,2025-03,8
+Legends of Avantris,large,2025-04,9
+Legends of Avantris,large,2025-05,8
+Legends of Avantris,large,2025-06,8
+Legends of Avantris,large,2025-07,14
+Legends of Avantris,large,2025-08,12
+Legends of Avantris,large,2025-09,8
+Legends of Avantris,large,2025-10,13
+Legends of Avantris,large,2025-11,17
+Legends of Avantris,large,2025-12,11
+Legends of Avantris,large,2026-01,12
+Legends of Avantris,large,2026-02,17
+Legends of Avantris,large,2026-03,31
+Legends of Avantris,large,2026-04,3
+Narrative Declaration,small,2022-01,42
+Narrative Declaration,small,2022-02,2
+Narrative Declaration,small,2022-03,2
+Narrative Declaration,small,2022-04,2
+Narrative Declaration,small,2022-05,2
+Narrative Declaration,small,2022-06,2
+Narrative Declaration,small,2022-07,3
+Narrative Declaration,small,2022-08,6
+Narrative Declaration,small,2022-09,3
+Narrative Declaration,small,2022-10,2
+Narrative Declaration,small,2022-11,3
+Narrative Declaration,small,2022-12,9
+Narrative Declaration,small,2023-01,4
+Narrative Declaration,small,2023-02,5
+Narrative Declaration,small,2023-03,5
+Narrative Declaration,small,2023-04,5
+Narrative Declaration,small,2023-05,10
+Narrative Declaration,small,2023-06,5
+Narrative Declaration,small,2023-07,3
+Narrative Declaration,small,2023-08,2
+Narrative Declaration,small,2023-09,3
+Narrative Declaration,small,2023-10,6
+Narrative Declaration,small,2023-11,3
+Narrative Declaration,small,2023-12,4
+Narrative Declaration,small,2024-01,2
+Narrative Declaration,small,2024-02,3
+Narrative Declaration,small,2024-03,3
+Narrative Declaration,small,2024-04,5
+Narrative Declaration,small,2024-05,4
+Narrative Declaration,small,2024-06,3
+Narrative Declaration,small,2024-07,4
+Narrative Declaration,small,2024-08,1
+Narrative Declaration,small,2024-09,3
+Narrative Declaration,small,2024-10,3
+Narrative Declaration,small,2024-11,2
+Narrative Declaration,small,2024-12,7
+Narrative Declaration,small,2025-01,1
+Narrative Declaration,small,2025-02,2
+Narrative Declaration,small,2025-03,6
+Narrative Declaration,small,2025-04,4
+Narrative Declaration,small,2025-05,6
+Narrative Declaration,small,2025-06,5
+Narrative Declaration,small,2025-07,6
+Narrative Declaration,small,2025-08,3
+Narrative Declaration,small,2025-09,1
+Narrative Declaration,small,2025-10,2
+Narrative Declaration,small,2025-11,3
+Narrative Declaration,small,2025-12,5
+Narrative Declaration,small,2026-01,1
+Narrative Declaration,small,2026-02,2
+Narrative Declaration,small,2026-03,3
+Unexpectables,small,2022-04,322
+Unexpectables,small,2022-05,9
+Unexpectables,small,2022-06,5
+Unexpectables,small,2022-07,6
+Unexpectables,small,2022-08,9
+Unexpectables,small,2022-09,7
+Unexpectables,small,2022-10,11
+Unexpectables,small,2022-11,7
+Unexpectables,small,2022-12,4
+Unexpectables,small,2023-01,7
+Unexpectables,small,2023-02,6
+Unexpectables,small,2023-03,8
+Unexpectables,small,2023-04,8
+Unexpectables,small,2023-05,6
+Unexpectables,small,2023-06,6
+Unexpectables,small,2023-07,5
+Unexpectables,small,2023-08,5
+Unexpectables,small,2023-09,9
+Unexpectables,small,2023-10,9
+Unexpectables,small,2023-11,8
+Unexpectables,small,2023-12,6
+Unexpectables,small,2024-01,9
+Unexpectables,small,2024-02,7
+Unexpectables,small,2024-03,6
+Unexpectables,small,2024-04,7
+Unexpectables,small,2024-05,8
+Unexpectables,small,2024-06,7
+Unexpectables,small,2024-07,7
+Unexpectables,small,2024-08,7
+Unexpectables,small,2024-09,7
+Unexpectables,small,2024-10,8
+Unexpectables,small,2024-11,9
+Unexpectables,small,2024-12,5
+Unexpectables,small,2025-01,6
+Unexpectables,small,2025-02,6
+Unexpectables,small,2025-03,7
+Unexpectables,small,2025-04,6
+Unexpectables,small,2025-05,9
+Unexpectables,small,2025-06,6
+Unexpectables,small,2025-07,7
+Unexpectables,small,2025-08,7
+Unexpectables,small,2025-09,8
+Unexpectables,small,2025-10,12
+Unexpectables,small,2025-11,9
+Unexpectables,small,2025-12,4
+Unexpectables,small,2026-01,6
+Unexpectables,small,2026-02,5
+Unexpectables,small,2026-03,6
+VibeCheckDND,small,2024-02,1
+VibeCheckDND,small,2024-05,1
+VibeCheckDND,small,2024-10,1
+VibeCheckDND,small,2025-06,1
+VibeCheckDND,small,2025-10,1
+VibeCheckDND,small,2025-12,1

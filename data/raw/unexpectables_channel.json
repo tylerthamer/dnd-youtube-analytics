@@ -1,0 +1,60 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "M1ApbU9LlZ6C9ac6IF4tjPSEp3w",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "bhptfx4DHppeVkPiokuBVYiJLP4",
+      "id": "UCB9zFd3_X5A9XAxeHBIjudQ",
+      "snippet": {
+        "title": "The Unexpectables",
+        "description": "We're a group of friends who play Tabletop RPGs for your entertainment!",
+        "customUrl": "@theunexpectablesofficial",
+        "publishedAt": "2022-03-09T22:05:12.883638Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/yPjVR6C84MZz6Pj4seoFYdcCrXVzJo_P-PxNXcK7ji9Jp_Phr8pxKwTtLURVKdDfQwQhfhDMEg=s88-c-k-c0x00ffffff-no-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/yPjVR6C84MZz6Pj4seoFYdcCrXVzJo_P-PxNXcK7ji9Jp_Phr8pxKwTtLURVKdDfQwQhfhDMEg=s240-c-k-c0x00ffffff-no-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/yPjVR6C84MZz6Pj4seoFYdcCrXVzJo_P-PxNXcK7ji9Jp_Phr8pxKwTtLURVKdDfQwQhfhDMEg=s800-c-k-c0x00ffffff-no-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "The Unexpectables",
+          "description": "We're a group of friends who play Tabletop RPGs for your entertainment!"
+        },
+        "country": "CA"
+      },
+      "contentDetails": {
+        "relatedPlaylists": {
+          "likes": "",
+          "uploads": "UUB9zFd3_X5A9XAxeHBIjudQ"
+        }
+      },
+      "statistics": {
+        "viewCount": "16530493",
+        "subscriberCount": "26500",
+        "hiddenSubscriberCount": false,
+        "videoCount": "716"
+      }
+    }
+  ],
+  "_meta": {
+    "channel_name": "Unexpectables",
+    "tier": "small",
+    "collected_at": "20260403_230447"
+  }
+}

@@ -1,0 +1,8 @@
+google-api-python-client
+isodate
+pandas
+matplotlib
+seaborn
+scipy
+jupyter
+openpyxl
